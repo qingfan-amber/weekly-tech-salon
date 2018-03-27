@@ -14,7 +14,7 @@ Amber团队每周技术沙龙技术内容文档。
     - 维护此Git repo，包括添加沙龙内容，添加Gist内容，维护沙龙列表
     - 轮值小组每次主讲一人，其余人负责答疑
 4. 每次沙龙需要提前准备好文档，以markdown形式同步与此git repo
-5. 每周沙龙末尾，下一组负责人提出3个备选题目，杜远超负责确认（可提前确认）
+5. 每周沙龙末尾，轮值小组A提出3个主题以备3周后的沙龙（可提前确认）
     - 主题内容要求与Amber团队工作强相关
     - 主题内容需要是纯技术类
     - 所有人可将自己感兴趣的主题更新到 [topic.md](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/topic.md)
@@ -38,6 +38,6 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:-: | -: |
-| 03 |20180420（暂定）| --| 苏宇，子滔 |
-| 02 | 20180413（暂定）|--| 靖东，何宁 |
-| 01 |20180404| [利用Django搭建Web Service](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/python-django.md)| 远超，润东 |
+| 03 |20180427（暂定）| --| 苏宇，子滔 |
+| 02 | 20180420（暂定）|--| 靖东，何宁 |
+| 01 |20180413| [利用Django搭建Web Service](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/python-django.md)| 远超，润东 |
