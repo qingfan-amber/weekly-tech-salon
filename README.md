@@ -38,6 +38,6 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:-: | -: |
-| 03 |20180615(暂定)| --| 维亮，马丽 |
-| 02 | 20180608(暂定)|--| 靖东，何宁 |
-| 01 |20180601| [LSTM介绍](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/lstm.md)| 远超，润东 |
+| 03 |20180615(暂定)| --| 马丽，维亮 |
+| 02 | 20180608(暂定)|--| 何宁，靖东 |
+| 01 |20180601| [LSTM介绍](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/lstm.md)| 晓娅，远超 |
