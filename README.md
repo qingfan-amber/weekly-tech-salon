@@ -37,7 +37,7 @@ Amber团队每周技术沙龙技术内容文档。
 ## 沙龙列表
 
 | 序号 | 日期 | 主题 | 小组成员 |
-| - | :-: |:-: | -: |
-| 03 |20180615(暂定)| --| 马丽，维亮 |
-| 02 | 20180608(暂定)|--| 何宁，靖东 |
-| 01 |20180601| [LSTM介绍](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/lstm.md)| 晓娅，远超 |
+| - | :-: |:- | :-: |
+| 03 |20180615|[人脸识别算法介绍](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/face_recognition.md) <br>[docker介绍](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/docker.md) | 马丽 <br> 维亮 |
+| 02 | 20180608|[tensorflow的Keras接口](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/keras_tensorflow.md)<br> [Free_standing会议的情感计算](https://github.com/duyuanchao/QF_Amber_echWeekly/blob/master/documents/affective_free_standing_conversation.md)| 靖东 <br> 远超 |
+| 01 | 20180601|[LSTM介绍](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/lstm.md)<br> [Attention is All You Need](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/attention_is_all_you_need.md)| 晓娅 <br> 繁恺 |
