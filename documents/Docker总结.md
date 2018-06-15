@@ -64,14 +64,6 @@ https://www.cnblogs.com/studyzy/p/6113221.html
 		* 慎用docker commit命令
 		* 2、Dockerfile创建镜像：FROM: 指令告诉Docker使用哪个镜像作为基础，RUN会在创建中运行，比如安装一个软件包等。Dockerfile创建好后，使用docker build [OPTIONS] [PATH]
 
-# Dockerfile
-FROM debian:jessieRUN 
-
-buildDeps='gcc libc6-dev make' \&& apt-get update \&& apt-get install -y $buildDeps \&& wget -O redis.tar.gz "http://download.redis.io/releases/redis-3.2.5.tar.gz" \&& mkdir -p /usr/src/redis \&& tar -xzf redis.tar.gz -C /usr/src/redis --strip-components=1 \&& make -C /usr/src/redis \&& make -C /usr/src/redis install \&& rm -rf /var/lib/apt/lists/* \&& rm redis.tar.gz \&& rm -r /usr/src/redis \&& apt-get purge -y --auto-remove $buildDeps
-
-# using commend [docker build -t='test:v1' .] to build docker image [test:v1]
-
-
 	* 存储和载入镜像
 
 		* 存储镜像：docker save -o ubuntu_14.04.tar ubuntu:14.04
