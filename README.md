@@ -38,6 +38,8 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:- | :-: |
+| 05 |20180629|[Python Tips Logging](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_tips_logging.md) [Python Tips cProfile](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_tips_cprofile.ipynb)  | 远超 |
+| 04 |20180622|[google 说话人分离论文](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/%E3%80%8C%E9%B8%A1%E5%B0%BE%E9%85%92%E4%BC%9A%E6%95%88%E5%BA%94%E3%80%8D%EF%BC%9A%E4%B8%80%E4%B8%AA%E9%9F%B3%E9%A2%91-%E8%A7%86%E8%A7%89%E8%AF%AD%E9%9F%B3%E5%88%86%E7%A6%BB%E6%A8%A1%E5%9E%8B.pdf)  | 繁恺 |
 | 03 |20180615|[人脸识别算法介绍](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/face_recognition.md) <br>[docker介绍](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/docker.md) | 马丽 <br> 维亮 |
 | 02 | 20180608|[tensorflow的Keras接口](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/keras_tensorflow.md)<br> [Free_standing会议的情感计算](https://github.com/duyuanchao/QF_Amber_echWeekly/blob/master/documents/affective_free_standing_conversation.md)| Ｊingdong <br> 远超 |
 | 01 | 20180601|[LSTM介绍](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/lstm.md)<br> [Attention is All You Need](https://github.com/duyuanchao/QF_Amber_TechWeekly/blob/master/documents/attention_is_all_you_need.md)| 晓娅 <br> 繁恺 |
