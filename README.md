@@ -38,9 +38,13 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:- | :-: |
+<<<<<<< HEAD
 | 10 |20180803|[GAN网络介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/GAN.pptx)<br>[深度学习面部情感计算综述](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Deep%20Facial%20Expression%20Recognition-%20A%20Survey.pdf) | 靖东<br>维亮 |
 | 09 |20180727|[pyAudioAnalysis说话人识别介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/pyAudioAnalysis_speaker_diarization.md)<br>[车牌识别](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/car_recognition.pdf) | 远超<br>王玥 |
 | 08 |20180724|--- | 春上<br>繁恺 |
+=======
+| 08 |20180803|[GAN介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/GAN.pptx) <br>[Deep Facial Expression Recognition-A Survey](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Deep%20Facial%20Expression%20Recognition-%20A%20Survey.pdf)| Jingdong <br> 维亮 |
+>>>>>>> ffdbd40162408a88f2cff3eb0574122969a2e7da
 | 07 |20180713|[EmotioNet介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/EmotioNet.pdf) <br>[EmotioNet Challenge介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/EmotioNet%20Challenge.pdf) | 维亮 |
 | 06 |20180629|[maskrcnn介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/mask.pdf) | Jingdong |
 | 05 |20180629|[Python Tips Logging](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_tips_logging.md) [Python Tips cProfile](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_tips_cprofile.ipynb)  | 远超 |
