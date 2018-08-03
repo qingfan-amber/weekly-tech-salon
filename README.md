@@ -38,6 +38,7 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:- | :-: |
+| 08 |20180803|[GAN介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/GAN.pptx) <br>[Deep Facial Expression Recognition-A Survey](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Deep%20Facial%20Expression%20Recognition-%20A%20Survey.pdf)| Jingdong <br> 维亮 |
 | 07 |20180713|[EmotioNet介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/EmotioNet.pdf) <br>[EmotioNet Challenge介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/EmotioNet%20Challenge.pdf) | 维亮 |
 | 06 |20180629|[maskrcnn介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/mask.pdf) | Jingdong |
 | 05 |20180629|[Python Tips Logging](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_tips_logging.md) [Python Tips cProfile](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_tips_cprofile.ipynb)  | 远超 |
