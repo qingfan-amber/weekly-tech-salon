@@ -38,6 +38,9 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:- | :-: |
+| 14 |20180903|[内存相关知识](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/introduction_to_memory.md) | 远超 |
+| 13 |201808024|[Tensorflow Server部署](https://github.com/qingfan-amber/weekly-tech-salon/)<br>[Go语言简介](https://github.com/qingfan-amber/weekly-tech-salon/) | 靖东<br>维亮 |
+| 12 |201808017|[TensorRT](https://github.com/qingfan-amber/weekly-tech-salon/) | 春上 |
 | 11 |201808010|[Celery简介](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/celery_intro.md) | 远超 |
 | 10 |20180803|[GAN网络介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/GAN.pdf)<br>[深度学习面部情感计算综述](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Deep%20Facial%20Expression%20Recognition-%20A%20Survey.pdf) | 靖东<br>维亮 |
 | 09 |20180727|[pyAudioAnalysis说话人识别介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/pyAudioAnalysis_speaker_diarization.md)<br>[车牌识别](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/car_recognition.pdf) | 远超<br>王玥 |
