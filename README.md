@@ -38,7 +38,11 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:- | :-: |
-| 14 |20180903|[内存相关知识](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/introduction_to_memory.md) | 远超 |
+| 18 |20181012|[ python并行与并发 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 远超 |
+| 17 |20180928|[ 强化学习框架 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 靖东 |
+| 16 |20180921|[ 凝视检测 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 维亮 |
+| 15 |20180914|[Numpy高级技巧](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/)<br>[Linux开机流程](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 春上<br>于坤 |
+| 14 |20180907|[python 内存管理](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_memory_control.md) | 远超 |
 | 13 |201808024|[Tensorflow Server部署](https://github.com/qingfan-amber/weekly-tech-salon/)<br>[Go语言简介](https://github.com/qingfan-amber/weekly-tech-salon/) | 靖东<br>维亮 |
 | 12 |201808017|[TensorRT](https://github.com/qingfan-amber/weekly-tech-salon/) | 春上 |
 | 11 |201808010|[Celery简介](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/celery_intro.md) | 远超 |
