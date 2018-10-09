@@ -43,7 +43,7 @@ Amber团队每周技术沙龙技术内容文档。
 | 16 |20181012|[ Openface开源工具 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 维亮 |
 | 15 |20180914|[Numpy高级技巧](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/)<br>[Linux开机流程](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 春上<br>于坤 |
 | 14 |20180907|[python 内存管理](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_memory_control.md) | 远超 |
-| 13 |201808024|[Tensorflow Server部署](https://github.com/qingfan-amber/weekly-tech-salon/)<br>[Go语言简介](https://github.com/qingfan-amber/weekly-tech-salon/) | 靖东<br>维亮 |
+| 13 |201808024|[Tensorflow Server部署](https://github.com/qingfan-amber/weekly-tech-salon/)<br>[Go语言简介](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B.pdf) | 靖东<br>维亮 |
 | 12 |201808017|[TensorRT](https://github.com/qingfan-amber/weekly-tech-salon/) | 春上 |
 | 11 |201808010|[Celery简介](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/celery_intro.md) | 远超 |
 | 10 |20180803|[GAN网络介绍](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/GAN.pdf)<br>[深度学习面部情感计算综述](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Deep%20Facial%20Expression%20Recognition-%20A%20Survey.pdf) | 靖东<br>维亮 |
