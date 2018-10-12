@@ -40,7 +40,7 @@ Amber团队每周技术沙龙技术内容文档。
 | - | :-: |:- | :-: |
 | 18 |20181026|[ python并行与并发 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 远超 |
 | 17 |20181019|[ 强化学习框架 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 靖东 |
-| 16 |20181012|[ Openface开源工具 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 维亮 |
+| 16 |20181012|[ Openface开源工具 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Openface%20%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86.pdf/) | 维亮 |
 | 15 |20180914|[Numpy高级技巧](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/)<br>[Linux开机流程](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 春上<br>于坤 |
 | 14 |20180907|[python 内存管理](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_memory_control.md) | 远超 |
 | 13 |201808024|[Tensorflow Server部署](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Tensorflow%20Server%E9%83%A8%E7%BD%B2.pdf)<br>[Go语言简介](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B.pdf) | 靖东<br>维亮 |
