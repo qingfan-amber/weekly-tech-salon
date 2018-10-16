@@ -38,9 +38,11 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:- | :-: |
+| 20 |20181109|[_MXNet基础_](https://github.com/qingfan-amber/weekly-tech-salon) | 维亮 |
+| 19 |20181102|  | 佳奇 |
 | 18 |20181026|[ python并行与并发 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 远超 |
 | 17 |20181019|[ 强化学习框架 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 靖东 |
-| 16 |20181012|[ Openface开源工具 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Openface%20%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86.pdf/) | 维亮 |
+| 16 |20181012|[ Openface开源工具 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Openface%20%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86.pdf/)<br>[_NLP基础_](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/NLP%E5%9F%BA%E7%A1%80%E7%AE%80%E4%BB%8B.pdf)| 维亮<br>佳奇 |
 | 15 |20180914|[Numpy高级技巧](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/)<br>[Linux开机流程](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 春上<br>于坤 |
 | 14 |20180907|[python 内存管理](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_memory_control.md) | 远超 |
 | 13 |201808024|[Tensorflow Server部署](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Tensorflow%20Server%E9%83%A8%E7%BD%B2.pdf)<br>[Go语言简介](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B.pdf) | 靖东<br>维亮 |
