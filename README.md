@@ -38,7 +38,7 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:- | :-: |
-| 20 |20181109|[_MXNet基础_](https://github.com/qingfan-amber/weekly-tech-salon) | 维亮 |
+| 20 |20181109|[Pytorch简介]<br>[知识蒸馏]<br>[多目标跟踪简介] | 维亮<br>李杰（大）<br>陈鑫 |
 | 19 |20181102|  | 佳奇 |
 | 18 |20181102|[ python并行与并发 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_parallel.ipynb) | 远超 |
 | 17 |20181019|[ 强化学习框架 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/) | 靖东 |
