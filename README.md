@@ -38,8 +38,8 @@ Amber团队每周技术沙龙技术内容文档。
 
 | 序号 | 日期 | 主题 | 小组成员 |
 | - | :-: |:- | :-: |
+| 19 |20190111|[文本纠错](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%88%86%E4%BA%AB20190111.pdf)<br>[Bert](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/%E6%B8%85%E5%B8%86%E6%B2%99%E9%BE%990110.pptx)| 湘博<br>佳奇 |
 | 20 |20181109|[gRPC](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents20190103_weekly_tech_grpc.pdf)<br>[Speaker diarization](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Speaker-Diarizationljm.pdf)<br>[Pyannote评价体系](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/Pyannote.pdf) | 远超<br>金鸣<br>郑群 |
-
 | 20 |20181109|[Pytorch简介](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/pytorch%E7%AE%80%E4%BB%8B.ipynb)<br>[知识蒸馏](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/%E6%96%87%E4%BB%B6.pdf)<br>[多目标跟踪简介](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/multi-tracking.ppt) | 维亮<br>李杰（大）<br>陈鑫 |
 | 19 |20181102|  | 佳奇 |
 | 18 |20181102|[ python并行与并发 ](https://github.com/qingfan-amber/weekly-tech-salon/blob/master/documents/python_parallel.ipynb) | 远超 |
